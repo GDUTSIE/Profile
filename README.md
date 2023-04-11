@@ -1,6 +1,9 @@
 # 广东工业大学国际教育学院课程资料
 
-![GDUTSIE Logo](https://chat.openai.com/logo.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117586514/231135453-463f3dc3-9298-4211-a689-986f56e7c462.png" alt="logo" width="250" style="vertical-align:middle"/>
+</p>
+
 
 ## 介绍
 
